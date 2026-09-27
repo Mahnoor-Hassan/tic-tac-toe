@@ -4,7 +4,7 @@ A responsive and interactive **Tic Tac Toe game** built using **HTML, CSS, and J
 
 ## 🚀 Live Demo
 
-🔗 **Live Demo:** [Add your live demo link here]
+🔗 **Live Demo:**  https://mahnoor-hassan.github.io/tic-tac-toe/
 
 ## 📌 Features
 
@@ -82,13 +82,7 @@ This project was developed as a frontend practice project to strengthen my under
 * Responsive web design
 * Building interactive web applications
 
-## 📸 Screenshots
 
-
-
-```markdown
-![Tic Tac Toe Game](screenshort.png)
-```
 
 ## 🔮 Future Improvements
 
